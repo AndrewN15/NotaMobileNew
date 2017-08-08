@@ -1,0 +1,8 @@
+C:\A\UITests\bin\Debug\Tabs.UITests.dll
+C:\A\UITests\bin\Debug\Tabs.UITests.pdb
+C:\A\UITests\bin\Debug\nunit.framework.dll
+C:\A\UITests\bin\Debug\Xamarin.UITest.dll
+C:\A\UITests\bin\Debug\nunit.framework.xml
+C:\A\UITests\bin\Debug\Xamarin.UITest.xml
+C:\A\UITests\obj\Debug\Tabs.UITests.dll
+C:\A\UITests\obj\Debug\Tabs.UITests.pdb
